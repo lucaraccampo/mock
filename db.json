@@ -1,184 +1,186 @@
 {
-  "offer": {
-    "activationStartDate": "05/12/2022",
-    "card": {
-      "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-11/black_1.jpeg?itok=UoSLHiEK",
-      "title": "Luce LIMIT.E",
-      "description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFissa un tetto al prezzo dell\u0027energia per evitare sorprese in bolletta!\u003C/strong\u003E\u003Cbr/\u003ESe il prezzo sale oltre il tetto fissato, non pagherai oltre quella cifra.\u003Cbr/\u003ESe il prezzo del mercato scende, pagherai meno perch\u00e9 non ti blocchiamo il prezzo.\u003Cbr/\u003E\u003Cbr/\u003E\r\nAttiva Luce Limit.e per avere \u003Cstrong\u003Eenergia prodotta da fonti al 100% rinnovabili\u003C/strong\u003E inclusa nell\u0027offerta, \u003Cstrong\u003Emassima trasparenza nelle comunicazioni\u003C/strong\u003E senza asterischi, costi nascosti o simboli misteriosi da decifrare e la puoi \u003Cstrong\u003Epersonalizzare con tanti servizi\u003C/strong\u003E.\u003C/p\u003E\r\n\u003C/div\u003E\r\n",
-      "subtitle": "Offerta valida fino al 5 Dicembre 2022.",
-      "type": "offer-1",
-      "offerType": "luce",
-      "paymentConditions": "",
-      "products": [
-        {
-          "analyticsName": "Pulsee Luce Limit.e",
-          "commodity": "Luce",
-          "priceType": "prezzo-indicizzato",
-          "productCode": "Pulsee00288",
-          "listCode": "000099ESVML11XXPULSEEPUB14072211",
-          "configurationCode": "Pulsee00288",
-          "prices": [
-            { "name": "Energia F0", "value": "0,000", "listID": "PrezzoF0" },
-            {
-              "name": "Energia F0",
-              "value": "20,000",
-              "listID": "OnereJollyPower"
-            }
-          ],
-          "nDummyDiscountPercentage": "30"
-        }
-      ],
-      "detailsDocumentation": [
-        {
-          "name": "Condizioni generali di fornitura",
-          "type": "",
-          "size": "",
-          "id": "AXPODT2019-4-51",
-          "priceType": null
-        },
-        {
-          "name": "Note informative al cliente",
-          "type": "",
-          "size": "",
-          "id": "AXPODT2019-4-53",
-          "priceType": null
-        },
-        {
-          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo indicizzato)",
-          "type": "",
-          "size": "",
-          "id": "AXPODT2022-4-14722",
-          "priceType": "prezzo-indicizzato"
-        },
-        {
-          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo fisso)",
-          "type": "",
-          "size": "",
-          "id": "AXPODT2022-630736552-4904451",
-          "priceType": "prezzo-fisso"
-        }
-      ],
-      "detailsFaq": [
-        {
-          "question": "Perch\u00e8 dovrei scegliere questa offerta?",
-          "answer": "Questa \u00e8 la fornitura per te se non hai orari particolari o non ti vuoi preoccupare delle differenze di prezzo durante la giornata."
-        },
-        {
-          "question": "Con quale frequenza ricever\u00f2 le bollette?",
-          "answer": "Per i prodotti luce la cadenza di fatturazione sar\u00e0 mensile."
-        }
-      ],
-      "customerType": "privato",
-      "paymentMethods": ["SDD", "CARTA DI CREDITO"],
-      "activationTypes": [
-        "Cambio Operatore",
-        "Voltura + Cambio Operatore",
-        "Voltura mortis causa",
-        "Voltura ordinaria",
-        "Prima attivazione",
-        "Nuovo allaccio + prima attivazione"
-      ],
-      "activationTypesAll": [
-        {
-          "processName": "SwitchIn",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/cambio-fornitore.svg",
-          "name": "Cambio Operatore",
-          "description": "\u003Cp\u003EPer passare a Pulsee avendo attualmente un contratto con un altro fornitore\u003C/p\u003E\r\n"
-        },
-        {
-          "processName": "TransferIV",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura_0.svg",
-          "name": "Voltura + Cambio Operatore",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo con un altro fornitore e a nome di altro utente\u003C/p\u003E\r\n"
-        },
-        {
-          "processName": "CoveredTransfer",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura.svg",
-          "name": "Voltura mortis causa",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
-        },
-        {
-          "processName": "SimpleTransfer",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/voltura.svg",
-          "name": "Voltura ordinaria",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
-        },
-        {
-          "processName": "FirstActivation",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/activation.svg",
-          "name": "Prima attivazione",
-          "description": "\u003Cp\u003EPer attivare per la prima volta un contratto su un contatore gi\u00e0 installato\u003C/p\u003E\r\n"
-        },
-        {
-          "processName": "Connection",
-          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/connection.svg",
-          "name": "Nuovo allaccio + prima attivazione",
-          "description": "\u003Cp\u003EPer installare un nuovo contatore\u003C/p\u003E\r\n"
-        }
-      ],
-      "bCodiceAgenziaIsActive": true,
-      "isOffertaPlacet": false,
-      "bCodicePromoIsActive": true,
-      "descrizioneAgcm": "\u003Cdiv class=\u0022prezzo-fisso\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EPrezzo di Commercializzazione \u003Cstrong\u003E90 \u20ac/POD/anno\u003C/strong\u003E.\u003C/span\u003E\u003C/div\u003E\r\n\r\n\u003Cdiv class=\u0022prezzo-indicizzato\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E240 \u20ac/POD/anno\u003C/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 20\u20ac.\u003Cbr /\u003E\r\nIl valore limite per il prezzo della materia energia \u00e8 \u003Cstrong\u003E0,450 \u20ac/kWh\u003C/strong\u003E.\u003C/span\u003E\u003C/div\u003E\r\n, full_html",
-      "nuovaVisualizzazioneIndicizzato": true,
-      "promoCodeRequired": false,
-      "promoCodeToExclude": null,
-      "priceCapIncluded": false
-    },
-    "checkboxes": [
+  "activationStartDate": "05/12/2022",
+  "card": {
+    "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-11/black_1.jpeg?itok=UoSLHiEK",
+    "title": "Luce LIMIT.E",
+    "description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFissa un tetto al prezzo dell\u0027energia per evitare sorprese in bolletta!\u003C/strong\u003E\u003Cbr/\u003ESe il prezzo sale oltre il tetto fissato, non pagherai oltre quella cifra.\u003Cbr/\u003ESe il prezzo del mercato scende, pagherai meno perch\u00e9 non ti blocchiamo il prezzo.\u003Cbr/\u003E\u003Cbr/\u003E\r\nAttiva Luce Limit.e per avere \u003Cstrong\u003Eenergia prodotta da fonti al 100% rinnovabili\u003C/strong\u003E inclusa nell\u0027offerta, \u003Cstrong\u003Emassima trasparenza nelle comunicazioni\u003C/strong\u003E senza asterischi, costi nascosti o simboli misteriosi da decifrare e la puoi \u003Cstrong\u003Epersonalizzare con tanti servizi\u003C/strong\u003E.\u003C/p\u003E\r\n\u003C/div\u003E\r\n",
+    "subtitle": "Offerta valida fino al 5 Dicembre 2022.",
+    "type": "offer-1",
+    "offerType": "luce",
+    "paymentConditions": "",
+    "products": [
       {
-        "id": "Pulsee00051",
-        "type": "luce",
-        "listCode": "Pulsee_00120_1812",
-        "title": "My Green Energy",
-        "subtitle": "Adotta un impianto\r\n",
-        "price": "\u003Cstrong\u003E1,00\u20ac\u003C/strong\u003E al mese",
-        "image": "https://portale-uat.pulsee.it/sites/default/files/2019-12/AdottaUnImpianto.png",
-        "details": [
-          "bb"
+        "analyticsName": "Pulsee Luce Limit.e",
+        "commodity": "Luce",
+        "priceType": "prezzo-indicizzato",
+        "productCode": "Pulsee00288",
+        "listCode": "000099ESVML11XXPULSEEPUB14072211",
+        "configurationCode": "Pulsee00288",
+        "prices": [
+          { "name": "Energia F0", "value": "0,000", "listID": "PrezzoF0" },
+          {
+            "name": "Energia F0",
+            "value": "20,000",
+            "listID": "OnereJollyPower"
+          }
         ],
-        "dropdown": {
-          "title": "Scegli l\u0027impianto",
-          "options": [
-            { "text": "Idroelettrico", "value": "Idroelettrico " },
-            { "text": "Solare", "value": "Solare " },
-            { "text": "Biomassa", "value": "Biomassa \t" },
-            { "text": "Eolico", "value": "Eolico" }
-          ]
-        },
-        "checked": false,
-        "isRequired": true
-      },
-      {
-        "id": "Pulsee00052",
-        "type": "dual",
-        "listCode": "Pulsee___00028_20181215",
-        "title": "Zero Carbon Footprint",
-        "subtitle": "Azzera le tue emissioni di CO2\r\n",
-        "price": "\u003Cstrong\u003E2,00\u20ac\u003C/strong\u003E al mese",
-        "image": "https://portale-uat.pulsee.it/sites/default/files/2019-04/zero-carbon-footprint_2.png",
-        "details": [
-          "aa"
-        ],
-        "dropdown": { "title": "", "options": [] },
-        "checked": false,
-        "isRequired": false
-      },
-      {
-        "id": "Pulsee00050",
-        "type": "dual",
-        "listCode": "Pulsee00050",
-        "title": "Cost Sharing",
-        "subtitle": "Dividi la bolletta con i tuoi coinquilini\r\n",
-        "price": "\u003Cstrong\u003E1,50\u20ac\u003C/strong\u003E al mese",
-        "image": "https://portale-uat.pulsee.it/sites/default/files/2019-11/cost-sharing_0.png",
-        "details": [
-          "\u003Cp\u003EMai pi\u00f9 incomprensioni sulla divisione della bolletta: \u003Cstrong\u003Ea fare i conti ci pensiamo noi!\u003C/strong\u003E\u003C/p\u003E\r\n"
-        ],
-        "dropdown": { "title": "", "options": [] },
-        "checked": false,
-        "isRequired": false
+        "nDummyDiscountPercentage": "30"
       }
-    ]
-  }
+    ],
+    "detailsDocumentation": [
+      {
+        "name": "Condizioni generali di fornitura",
+        "type": "",
+        "size": "",
+        "id": "AXPODT2019-4-51",
+        "priceType": null
+      },
+      {
+        "name": "Note informative al cliente",
+        "type": "",
+        "size": "",
+        "id": "AXPODT2019-4-53",
+        "priceType": null
+      },
+      {
+        "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo indicizzato)",
+        "type": "",
+        "size": "",
+        "id": "AXPODT2022-4-14722",
+        "priceType": "prezzo-indicizzato"
+      },
+      {
+        "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo fisso)",
+        "type": "",
+        "size": "",
+        "id": "AXPODT2022-630736552-4904451",
+        "priceType": "prezzo-fisso"
+      }
+    ],
+    "detailsFaq": [
+      {
+        "question": "Perch\u00e8 dovrei scegliere questa offerta?",
+        "answer": "Questa \u00e8 la fornitura per te se non hai orari particolari o non ti vuoi preoccupare delle differenze di prezzo durante la giornata."
+      },
+      {
+        "question": "Con quale frequenza ricever\u00f2 le bollette?",
+        "answer": "Per i prodotti luce la cadenza di fatturazione sar\u00e0 mensile."
+      }
+    ],
+    "customerType": "privato",
+    "paymentMethods": ["SDD", "CARTA DI CREDITO"],
+    "activationTypes": [
+      "Cambio Operatore",
+      "Voltura + Cambio Operatore",
+      "Voltura mortis causa",
+      "Voltura ordinaria",
+      "Prima attivazione",
+      "Nuovo allaccio + prima attivazione"
+    ],
+    "activationTypesAll": [
+      {
+        "processName": "SwitchIn",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/cambio-fornitore.svg",
+        "name": "Cambio Operatore",
+        "description": "\u003Cp\u003EPer passare a Pulsee avendo attualmente un contratto con un altro fornitore\u003C/p\u003E\r\n"
+      },
+      {
+        "processName": "TransferIV",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura_0.svg",
+        "name": "Voltura + Cambio Operatore",
+        "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo con un altro fornitore e a nome di altro utente\u003C/p\u003E\r\n"
+      },
+      {
+        "processName": "CoveredTransfer",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura.svg",
+        "name": "Voltura mortis causa",
+        "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
+      },
+      {
+        "processName": "SimpleTransfer",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/voltura.svg",
+        "name": "Voltura ordinaria",
+        "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
+      },
+      {
+        "processName": "FirstActivation",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/activation.svg",
+        "name": "Prima attivazione",
+        "description": "\u003Cp\u003EPer attivare per la prima volta un contratto su un contatore gi\u00e0 installato\u003C/p\u003E\r\n"
+      },
+      {
+        "processName": "Connection",
+        "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/connection.svg",
+        "name": "Nuovo allaccio + prima attivazione",
+        "description": "\u003Cp\u003EPer installare un nuovo contatore\u003C/p\u003E\r\n"
+      }
+    ],
+    "bCodiceAgenziaIsActive": true,
+    "isOffertaPlacet": false,
+    "bCodicePromoIsActive": true,
+    "descrizioneAgcm": "\u003Cdiv class=\u0022prezzo-fisso\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EPrezzo di Commercializzazione \u003Cstrong\u003E90 \u20ac/POD/anno\u003C/strong\u003E.\u003C/span\u003E\u003C/div\u003E\r\n\r\n\u003Cdiv class=\u0022prezzo-indicizzato\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E240 \u20ac/POD/anno\u003C/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 20\u20ac.\u003Cbr /\u003E\r\nIl valore limite per il prezzo della materia energia \u00e8 \u003Cstrong\u003E0,450 \u20ac/kWh\u003C/strong\u003E.\u003C/span\u003E\u003C/div\u003E\r\n, full_html",
+    "nuovaVisualizzazioneIndicizzato": true,
+    "promoCodeRequired": false,
+    "promoCodeToExclude": null,
+    "priceCapIncluded": true
+  },
+  "checkboxes": [
+    {
+      "id": "Pulsee00051",
+      "type": "luce",
+      "listCode": "Pulsee_00120_1812",
+      "title": "My Green Energy",
+      "subtitle": "Adotta un impianto\r\n",
+      "price": "\u003Cstrong\u003E1,00\u20ac\u003C/strong\u003E al mese",
+      "image": "https://portale-uat.pulsee.it/sites/default/files/2019-12/AdottaUnImpianto.png",
+      "details": [
+        "\u003Cp\u003E\u003Cstrong\u003EScegli la tua energia.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003EEolico, solare, biomassa o idroelettrico?\u00a0\u003C/strong\u003EScegli tu. Con Pulsee puoi avere \u003Cstrong\u003Esolo energia 100% green da fonti rinnovabili\u003C/strong\u003E per i tuoi consumi. Ogni megawattora immessa in rete \u00e8 certificata dal Gestore dei Servizi Energetici, che rilascia la Garanzia d\u0027Origine. A fine anno, anche tu riceverai la tua certificazione Pulsee che attesta l\u0027origine green dell\u0027energia che hai consumato.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta come un caff\u00e8 al mese\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n"
+      ],
+      "dropdown": {
+        "title": "Scegli l\u0027impianto",
+        "options": [
+          { "text": "Idroelettrico", "value": "Idroelettrico " },
+          { "text": "Solare", "value": "Solare " },
+          { "text": "Biomassa", "value": "Biomassa \t" },
+          { "text": "Eolico", "value": "Eolico" }
+        ]
+      },
+      "checked": false,
+      "isRequired": true
+    },
+    {
+      "id": "Pulsee00052",
+      "type": "dual",
+      "listCode": "Pulsee___00028_20181215",
+      "title": "Zero Carbon Footprint",
+      "subtitle": "Azzera le tue emissioni di CO2\r\n",
+      "price": "\u003Cstrong\u003E2,00\u20ac\u003C/strong\u003E al mese",
+      "image": "https://portale-uat.pulsee.it/sites/default/files/2019-04/zero-carbon-footprint_2.png",
+      "details": [
+        "\u003Cp\u003E\u003Cstrong\u003EPer uno stile di vita pi\u00f9 sostenibile.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003ETi sposti con i mezzi pubblici? Mangi carne solo due volte a settimana? A casa tua la temperatura media \u00e8 di 20\u00b0? Pulsee tiene conto delle tue \u003Cstrong\u003Ebuone abitudini di consumo\u003C/strong\u003E e ne stima la \u003Cstrong\u003Eriduzione di emissioni di Co2\u003C/strong\u003E. In base alla riduzione dell\u0027impatto ambientale, Pulsee acquista per te i \u003Cstrong\u003Ecertificati di riduzione delle emissioni\u003C/strong\u003E, finanziando progetti europei per lo sviluppo sostenibile, come la costruzione di impianti ecologici o di pale eoliche per generare energia pulita.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta solo 2\u20ac/mese: poco pi\u00f9 di un caff\u00e8\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\r\n\u003Cp\u003E\u00a0\u003C/p\u003E\r\n\u003Cimg alt=\u0022pulsee\u0022 data-align=\u0022center\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022675d9e20-0c8c-4e35-903b-81d5a1332f5b\u0022 src=\u0022/sites/default/files/inline-images/Cattura.JPG\u0022 /\u003E\r\n\u003Cp\u003E\u00a0\u003C/p\u003E\r\n"
+      ],
+      "dropdown": { "title": "", "options": [] },
+      "checked": false,
+      "isRequired": false
+    },
+    {
+      "id": "Pulsee00050",
+      "type": "dual",
+      "listCode": "Pulsee00050",
+      "title": "Cost Sharing",
+      "subtitle": "Dividi la bolletta con i tuoi coinquilini\r\n",
+      "price": "\u003Cstrong\u003E1,50\u20ac\u003C/strong\u003E al mese",
+      "image": "https://portale-uat.pulsee.it/sites/default/files/2019-11/cost-sharing_0.png",
+      "details": [
+        "\u003Cp\u003EMai pi\u00f9 incomprensioni sulla divisione della bolletta: \u003Cstrong\u003Ea fare i conti ci pensiamo noi!\u003C/strong\u003E\u003C/p\u003E\r\n",
+        "\u003Cp\u003EPulsee ti aiuta a \u003Cstrong\u003Esuddividere i costi della bolletta\u003C/strong\u003E con i tuoi coinquilini. Invitali ad inserire la loro carta di credito per dividere le future bollette e imposta le rispettive quote di spesa.\u003C/p\u003E\r\n\r\n\u003Cp\u003EIn corrispondenza dell\u2019emissione della bolletta, gli importi saranno addebitati a tutti gli inquilini in base alle percentuali impostate.\u003C/p\u003E\r\n\r\n\u003Cp\u003EDopo aver attivato la fornitura riceverai via mail le credenziali per accedere al portale SplittyPay dove potrai inserire la tua carta di credito e i nominativi dei coinquilini con cui dividerai la bolletta.\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003EConosci gi\u00e0 SplittyPay?\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003ESplittyPay, partner di Pulsee, \u00e8 una startup fintech italiana che ha l\u2019obiettivo di risolvere il problema degli acquisti online di gruppo. L\u2019innovativo sistema di pagamento condiviso permette di \u201csplittare\u201d in pi\u00f9 quote una singola transazione online, andando ad eliminare le problematiche e le successive discussioni che si creano solitamente durante gli acquisti condivisi tra gli utenti.\u003C/p\u003E\r\n\r\n\u003Cp\u003EI pagamenti saranno gestiti tramite il servizio Stripe.\u003C/p\u003E\r\n",
+        "\u003Cp\u003EPer consentire l\u2019attivazione del servizio di Cost Sharing, comunicheremo a SplittyPay, che gestir\u00e0 interamente il servizio, il tuo nome, cognome e i tuoi dati relativi al pagamento. La comunicazione avverr\u00e0 in piena sicurezza, trattando i tuoi dati come indicato nell\u2019\u003Ca href=\u0022https://pulsee.it/privacy-policy\u0022 target=\u0022_blank\u0022\u003EInformativa privacy\u003C/a\u003E.\u003C/p\u003E\r\n",
+        "\u003Cp\u003EPulsee verser\u00e0 interamente l\u0027importo incassato al partner SplittyPay, pari a 1,50 \u20ac al mese per ogni punto di fornitura attivato.\u003C/p\u003E\r\n",
+        "\u003Cp\u003EPer conoscere i Termini e Condizioni del servizio consultare il portale SplittyPay al seguente link: \u003Ca href=\u0022https://www.splittypay.com/terms.html\u0022 target=\u0022_blank\u0022\u003Ehttps://www.splittypay.com/terms.html\u003C/a\u003E\u003C/p\u003E\r\n"
+      ],
+      "dropdown": { "title": "", "options": [] },
+      "checked": false,
+      "isRequired": false
+    }
+  ]
 }
