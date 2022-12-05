@@ -134,7 +134,7 @@
       "price": "\u003Cstrong\u003E1,00\u20ac\u003C/strong\u003E al mese",
       "image": "https://portale-uat.pulsee.it/sites/default/files/2019-12/AdottaUnImpianto.png",
       "details": [
-        "\u003Cp\u003E\u003Cstrong\u003EScegli la tua energia.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003EEolico, solare, biomassa o idroelettrico?\u00a0\u003C/strong\u003EScegli tu. Con Pulsee puoi avere \u003Cstrong\u003Esolo energia 100% green da fonti rinnovabili\u003C/strong\u003E per i tuoi consumi. Ogni megawattora immessa in rete \u00e8 certificata dal Gestore dei Servizi Energetici, che rilascia la Garanzia d\u0027Origine. A fine anno, anche tu riceverai la tua certificazione Pulsee che attesta l\u0027origine green dell\u0027energia che hai consumato.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta come un caff\u00e8 al mese\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n"
+        "bb"
       ],
       "dropdown": {
         "title": "Scegli l\u0027impianto",
