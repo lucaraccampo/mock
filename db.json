@@ -134,7 +134,7 @@
       "price": "\u003Cstrong\u003E1,00\u20ac\u003C/strong\u003E al mese",
       "image": "https://portale-uat.pulsee.it/sites/default/files/2019-12/AdottaUnImpianto.png",
       "details": [
-        "\u003Cp\u003E\u003Cstrong\u003EScegli la tua energia.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003EEolico, solare, biomassa o idroelettrico?\u00a0\u003C/strong\u003EScegli tu. Con Pulsee puoi avere \u003Cstrong\u003Esolo energia 100% green da fonti rinnovabili\u003C/strong\u003E per i tuoi consumi. Ogni megawattora immessa in rete \u00e8 certificata dal Gestore dei Servizi Energetici, che rilascia la Garanzia d\u0027Origine. A fine anno, anche tu riceverai la tua certificazione Pulsee che attesta l\u0027origine green dell\u0027energia che hai consumato.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta come un caff\u00e8 al mese\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n"
+          "cc"
       ],
       "dropdown": {
         "title": "Scegli l\u0027impianto",
@@ -157,7 +157,7 @@
       "price": "\u003Cstrong\u003E2,00\u20ac\u003C/strong\u003E al mese",
       "image": "https://portale-uat.pulsee.it/sites/default/files/2019-04/zero-carbon-footprint_2.png",
       "details": [
-        "\u003Cp\u003E\u003Cstrong\u003EPer uno stile di vita pi\u00f9 sostenibile.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003ETi sposti con i mezzi pubblici? Mangi carne solo due volte a settimana? A casa tua la temperatura media \u00e8 di 20\u00b0? Pulsee tiene conto delle tue \u003Cstrong\u003Ebuone abitudini di consumo\u003C/strong\u003E e ne stima la \u003Cstrong\u003Eriduzione di emissioni di Co2\u003C/strong\u003E. In base alla riduzione dell\u0027impatto ambientale, Pulsee acquista per te i \u003Cstrong\u003Ecertificati di riduzione delle emissioni\u003C/strong\u003E, finanziando progetti europei per lo sviluppo sostenibile, come la costruzione di impianti ecologici o di pale eoliche per generare energia pulita.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta solo 2\u20ac/mese: poco pi\u00f9 di un caff\u00e8\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\r\n\u003Cp\u003E\u00a0\u003C/p\u003E\r\n\u003Cimg alt=\u0022pulsee\u0022 data-align=\u0022center\u0022 data-entity-type=\u0022file\u0022 data-entity-uuid=\u0022675d9e20-0c8c-4e35-903b-81d5a1332f5b\u0022 src=\u0022/sites/default/files/inline-images/Cattura.JPG\u0022 /\u003E\r\n\u003Cp\u003E\u00a0\u003C/p\u003E\r\n"
+          "bb"
       ],
       "dropdown": { "title": "", "options": [] },
       "checked": false,
@@ -172,7 +172,7 @@
       "price": "\u003Cstrong\u003E1,50\u20ac\u003C/strong\u003E al mese",
       "image": "https://portale-uat.pulsee.it/sites/default/files/2019-11/cost-sharing_0.png",
       "details": [
-        "\u003Cp\u003EMai pi\u00f9 incomprensioni sulla divisione della bolletta: \u003Cstrong\u003Ea fare i conti ci pensiamo noi!\u003C/strong\u003E\u003C/p\u003E\r\n",
+        "aa"
       ],
       "dropdown": { "title": "", "options": [] },
       "checked": false,
