@@ -83,13 +83,13 @@
             }],
             "detailsFaq": [{
                 "question": "Perch\u00e8 dovrei scegliere questa offerta?",
-                "answer": "Per avere la sicurezza di LIMIT.E sulla Luce e la comodit\u00e0 di avere un unico fornitore anche per il Gas. Gestendo tutto semplicemente dal tuo smartphone."
+                "answer": ""
             }, {
                 "question": "Con quale frequenza ricever\u00f2 le bollette? ",
-                "answer": "La frequenza di fatturazione per la luce e gas sar\u00e0 diversa. Per i prodotti luce la cadenza di fatturazione sar\u00e0 mensile. Per i prodotti gas il passo di fatturazione sar\u00e0 stagionale. Mensile per i mesi di dicembre, gennaio, febbraio, marzo; bimestrale per i mesi di aprile\/maggio, giugno\/luglio, agosto\/settembre, ottobre\/novembre."
+                "answer": ""
             }, {
                 "question": "Dove posso recuperare altre informazioni su Pulsee Luce Limit.e?",
-                "answer": "A questa pagina puoi trovare tutte le informazioni che ti servono: https:\/\/pulsee.it\/basta-brancolare-nel-buio"
+                "answer": ""
             }],
             "customerType": "privato",
             "paymentMethods": ["SDD", "CARTA DI CREDITO"],
@@ -98,37 +98,32 @@
                 "processName": "SimpleTransfer",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2019-05\/voltura.svg",
                 "name": "Voltura ordinaria",
-                "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C\/p\u003E"
-            }, {
+                "description": ""            }, {
                 "processName": "SwitchIn",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2019-05\/cambio-fornitore.svg",
                 "name": "Cambio Operatore",
-                "description": "\u003Cp\u003EPer passare a Pulsee avendo attualmente un contratto con un altro fornitore\u003C\/p\u003E\r\n"
-            }, {
+                "description": ""            }, {
                 "processName": "FirstActivation",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2022-04\/activation.svg",
                 "name": "Prima attivazione",
-                "description": "\u003Cp\u003EPer attivare per la prima volta un contratto su un contatore gi\u00e0 installato\u003C\/p\u003E\r\n"
-            }, {
+                "description": ""            }, {
                 "processName": "Connection",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2022-04\/connection.svg",
                 "name": "Nuovo allaccio + prima attivazione",
-                "description": "\u003Cp\u003EPer installare un nuovo contatore\u003C\/p\u003E\r\n"
-            }, {
+                "description": ""            }, {
                 "processName": "CoveredTransfer",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2022-04\/voltura.svg",
                 "name": "Voltura mortis causa",
-                "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C\/p\u003E"
-            }, {
+                "description": ""            }, {
                 "processName": "TransferIV",
                 "icon": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/2022-04\/voltura_0.svg",
                 "name": "Voltura + Cambio Operatore",
-                "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo con un altro fornitore e a nome di altro utente\u003C\/p\u003E\r\n"
+                "description": ""
             }],
             "bCodiceAgenziaIsActive": true,
             "isOffertaPlacet": false,
             "bCodicePromoIsActive": true,
-            "descrizioneAgcm": "\u003Cdiv class=\u0022prezzo-fisso\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E144 \u20ac\/POD\/anno\u003C\/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 12 \u20ac.\u003C\/span\u003E\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022prezzo-indicizzato\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E240 \u20ac\/POD\/anno\u003C\/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 20\u20ac. Il valore limite per il prezzo della materia energia \u00e8 \u003Cstrong\u003E0,450 \u20ac\/kWh\u003C\/strong\u003E. La Quota Vendita Fissa per fornitura Gas \u00e8 di \u003Cstrong\u003E144 \u20ac\/POD\/anno\u003C\/strong\u003E, gi\u00e0 compresa nel contributo mensile di 12 \u20ac. La Quota Vendita Variabile per fornitura Gas \u00e8 di 0,042 \u20ac\/Smc.\u003C\/span\u003E\u003C\/div\u003E\r\n, full_html",
+            "descrizioneAgcm": "",
             "nuovaVisualizzazioneIndicizzato": true,
             "promoCodeRequired": false,
             "promoCodeToExclude": null,
